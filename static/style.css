@@ -1,0 +1,28 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    background-color: rgb(6, 89, 232);
+    color: rgb(224, 232, 243);
+    font-size: large;
+    font-family:'Courier New', Courier, monospace;
+    border-radius: 20px;
+    padding: 15px;
+    border: 1px rgb(4, 45, 230);
+    border-radius: 15px;
+    text-transform: capitalize;
+}
+
+button:hover{
+    background-color: rgb(8, 142, 172);
+}
+
+li{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
